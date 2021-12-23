@@ -10,6 +10,6 @@ public class MemberController {
     public String greeting(){
         return "hello world";
     }
-    
+
 
 }
