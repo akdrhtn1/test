@@ -24,7 +24,7 @@ public class MemberController {
 
         admin.setARid(1);
         admin.setALoginId(aLoginId);
-        admin.setAEmail("sasa@naver.com");
+        admin.setAEmail("sas322a@naver.com");
         admin.setAPassword("sss1");
 
         return practiceRepository.save(admin);
